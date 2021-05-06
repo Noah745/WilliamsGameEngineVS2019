@@ -11,6 +11,8 @@ void Meteor::handleCollision(GameObject& otherGameObject)
 		otherGameObject.makeDead();
 	}
 	makeDead();
+	
+
 }
 
 const float SPEED = .25f;
