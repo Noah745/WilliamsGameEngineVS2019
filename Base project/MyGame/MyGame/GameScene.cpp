@@ -3,6 +3,8 @@
 #include "MeteorSpawner.h"
 #include"Score.h"
 
+
+
 int GameScene::getScore()
 {
 	return score_;
